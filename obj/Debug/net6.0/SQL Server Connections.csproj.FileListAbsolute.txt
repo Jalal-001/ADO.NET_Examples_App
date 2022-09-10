@@ -1,0 +1,41 @@
+D:\Jalal`s folder\General Projects\dotnetCore(c#)\SQL Server Connections\bin\Debug\net6.0\SQL Server Connections.exe
+D:\Jalal`s folder\General Projects\dotnetCore(c#)\SQL Server Connections\bin\Debug\net6.0\SQL Server Connections.deps.json
+D:\Jalal`s folder\General Projects\dotnetCore(c#)\SQL Server Connections\bin\Debug\net6.0\SQL Server Connections.runtimeconfig.json
+D:\Jalal`s folder\General Projects\dotnetCore(c#)\SQL Server Connections\bin\Debug\net6.0\SQL Server Connections.dll
+D:\Jalal`s folder\General Projects\dotnetCore(c#)\SQL Server Connections\bin\Debug\net6.0\SQL Server Connections.pdb
+D:\Jalal`s folder\General Projects\dotnetCore(c#)\SQL Server Connections\bin\Debug\net6.0\System.Data.SqlClient.dll
+D:\Jalal`s folder\General Projects\dotnetCore(c#)\SQL Server Connections\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+D:\Jalal`s folder\General Projects\dotnetCore(c#)\SQL Server Connections\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+D:\Jalal`s folder\General Projects\dotnetCore(c#)\SQL Server Connections\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+D:\Jalal`s folder\General Projects\dotnetCore(c#)\SQL Server Connections\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Jalal`s folder\General Projects\dotnetCore(c#)\SQL Server Connections\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Jalal`s folder\General Projects\dotnetCore(c#)\SQL Server Connections\obj\Debug\net6.0\SQL Server Connections.csproj.AssemblyReference.cache
+D:\Jalal`s folder\General Projects\dotnetCore(c#)\SQL Server Connections\obj\Debug\net6.0\SQL Server Connections.GeneratedMSBuildEditorConfig.editorconfig
+D:\Jalal`s folder\General Projects\dotnetCore(c#)\SQL Server Connections\obj\Debug\net6.0\SQL Server Connections.AssemblyInfoInputs.cache
+D:\Jalal`s folder\General Projects\dotnetCore(c#)\SQL Server Connections\obj\Debug\net6.0\SQL Server Connections.AssemblyInfo.cs
+D:\Jalal`s folder\General Projects\dotnetCore(c#)\SQL Server Connections\obj\Debug\net6.0\SQL Server Connections.csproj.CoreCompileInputs.cache
+D:\Jalal`s folder\General Projects\dotnetCore(c#)\SQL Server Connections\obj\Debug\net6.0\SQL Server Connections.csproj.CopyComplete
+D:\Jalal`s folder\General Projects\dotnetCore(c#)\SQL Server Connections\obj\Debug\net6.0\SQL Server Connections.dll
+D:\Jalal`s folder\General Projects\dotnetCore(c#)\SQL Server Connections\obj\Debug\net6.0\refint\SQL Server Connections.dll
+D:\Jalal`s folder\General Projects\dotnetCore(c#)\SQL Server Connections\obj\Debug\net6.0\SQL Server Connections.pdb
+D:\Jalal`s folder\General Projects\dotnetCore(c#)\SQL Server Connections\obj\Debug\net6.0\SQL Server Connections.genruntimeconfig.cache
+D:\Jalal`s folder\General Projects\dotnetCore(c#)\SQL Server Connections\obj\Debug\net6.0\ref\SQL Server Connections.dll
+D:\Jalal`s folder\General Projects\dotnetCore(c#)\SQL Server Connections\bin\Debug\net6.0\Google.Protobuf.dll
+D:\Jalal`s folder\General Projects\dotnetCore(c#)\SQL Server Connections\bin\Debug\net6.0\K4os.Compression.LZ4.dll
+D:\Jalal`s folder\General Projects\dotnetCore(c#)\SQL Server Connections\bin\Debug\net6.0\K4os.Compression.LZ4.Streams.dll
+D:\Jalal`s folder\General Projects\dotnetCore(c#)\SQL Server Connections\bin\Debug\net6.0\K4os.Hash.xxHash.dll
+D:\Jalal`s folder\General Projects\dotnetCore(c#)\SQL Server Connections\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Jalal`s folder\General Projects\dotnetCore(c#)\SQL Server Connections\bin\Debug\net6.0\MySql.Data.dll
+D:\Jalal`s folder\General Projects\dotnetCore(c#)\SQL Server Connections\bin\Debug\net6.0\Ubiety.Dns.Core.dll
+D:\Jalal`s folder\General Projects\dotnetCore(c#)\SQL Server Connections\bin\Debug\net6.0\ZstdNet.dll
+D:\Jalal`s folder\General Projects\dotnetCore(c#)\SQL Server Connections\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+D:\Jalal`s folder\General Projects\dotnetCore(c#)\SQL Server Connections\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Jalal`s folder\General Projects\dotnetCore(c#)\SQL Server Connections\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Jalal`s folder\General Projects\dotnetCore(c#)\SQL Server Connections\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Jalal`s folder\General Projects\dotnetCore(c#)\SQL Server Connections\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Jalal`s folder\General Projects\dotnetCore(c#)\SQL Server Connections\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Jalal`s folder\General Projects\dotnetCore(c#)\SQL Server Connections\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Jalal`s folder\General Projects\dotnetCore(c#)\SQL Server Connections\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Jalal`s folder\General Projects\dotnetCore(c#)\SQL Server Connections\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Jalal`s folder\General Projects\dotnetCore(c#)\SQL Server Connections\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Jalal`s folder\General Projects\dotnetCore(c#)\SQL Server Connections\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
